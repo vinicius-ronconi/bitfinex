@@ -1,7 +1,7 @@
 # Bitfinex Python Client
 
-__DEPRECATED__ : _I consider this repo dead as of August 2nd 2016, when
-Bitfinex was hacked. Feel free to fork it._
+__IMPORTANT__ : _Just forked this project because scottjbarr considered his repo dead as of August 2nd 2016, when
+Bitfinex was hacked. Made a few fixes on it._
 
 A Python client for the Bitfinex API.
 
